@@ -239,7 +239,7 @@ You can NOT assume that the .overview class will always be the first child.   */
   /* Move the navigation so that the nav is aligned to the other side of the window and has a padding of 30px on the top and bottom and 0 on the left and right. */
 @media screen and (min-width: 800px){
   nav{
-    padding: 30px 0 0 0 ;
+    padding: 30px 0 30px 0 ;
     text-align: right;
   }
   .container{
